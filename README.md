@@ -2,6 +2,8 @@
 
 Caso de estudio PokeApi para pruebas.
 
+Más detalles en el **documento de word:** [Diseño e Implementación de Pruebas Unitarias para la PokeAPI](https://unibedom-my.sharepoint.com/:w:/g/personal/ctejeda6_est_unibe_edu_do/EUgMPvaBLOVPpQPxdagtR-MB419o9UaGLxTMpbRGBaABCw?e=mLet9x)
+
 ### Descripción
 
 - **Obtención de datos básicos:** Verifica que la respuesta de la API sea exitosa (código 200). Verifica que el ID y el nombre del Pokémon sean correctos.
